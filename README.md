@@ -22,5 +22,5 @@ Each section is surrounded by a beige box that separates it from the others. Thi
 The most important titles are bigger than the rest of the text and share the same colors between them, so the user can recognize them. 
 Overall, the website has been designed to be simple and professional, allowing the user to concentrate on the information and give a feeling of professionalism and control.
 
-Link to the Figma project: https://www.figma.com/design/3Gcnga9Wa7vZJWdPaKm7wE/CURRICULUM-BO?node-id=0-1&t=UA7eqnuTsmojvaeG-1
+Link to the Figma project: https://www.figma.com/design/3Gcnga9Wa7vZJWdPaKm7wE/CURRICULUM?node-id=0-1&t=UA7eqnuTsmojvaeG-1 
 
