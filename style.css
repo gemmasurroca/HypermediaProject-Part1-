@@ -1,0 +1,92 @@
+.photoCarnet {
+    width: 230px;
+    height: 320px;
+    margin: 20px;
+}
+body{
+    font-family: "Segoe UI", sans-serif;
+}
+.nom{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 0;
+    margin-top: 2px;
+    width: 800px;
+}
+header h1 {
+    margin-bottom: 0;
+    font-size: 70px;
+}
+header h2{
+    margin-top: 5px;
+    font-weight: normal;
+}
+header p{
+    margin-top:130px;
+    font-size:25px;
+}
+header{
+    background-color: #ac9e9e;
+}
+nav {
+  background-color: #d5c9c9;
+}
+nav ul {
+  margin: 0;
+  padding: 12px;
+}
+nav li {
+  display: inline;
+}
+nav a:hover{
+    color: #d5c9c9;
+    background-color: #ac9e9e;
+}
+nav a {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: #ac9e9e;
+  padding: 12px 18px;
+}
+p{
+    font-size: 20px;
+}
+section{
+    margin-left: 50px;
+    margin: 20px;
+    padding: 20px;
+    vertical-align: top;
+    background-color: #f9eeee;
+}
+#languages, #education, #experience{
+    display: inline-block;
+}
+section h1, .month{
+    color:#ac9e9e;
+}
+hr{
+    width:400px;
+    margin-left:0;
+}
+footer {
+  background-color: #d5c9c9; 
+  display:block;
+  clear:both;
+  padding: 30px;
+  text-align: center;
+}
+footer p{
+    display:inline-block;
+    width:300px;
+}
+.photoIcon{
+    width:40px;
+    height:40px; 
+}
+.photoMail, .photoData {
+    width: 50px;
+    height: 30px;
+}
