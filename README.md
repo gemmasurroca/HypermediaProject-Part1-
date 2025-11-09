@@ -2,6 +2,7 @@
 Development of a website to show my Curriculum Vitae. 
 
 Link to the website: https://gemmasurroca.github.io/HypermediaProject-Part1-/
+
 Link to the Figma project: https://www.figma.com/design/3Gcnga9Wa7vZJWdPaKm7wE/CURRICULUM?node-id=0-1&t=UA7eqnuTsmojvaeG-1
 
 PROJECT ANALYSIS
