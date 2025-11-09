@@ -1,6 +1,9 @@
 # HypermediaProject-Part1-
 Development of a website to show my Curriculum Vitae. 
 
+Link to the website: https://gemmasurroca.github.io/HypermediaProject-Part1-/
+Link to the Figma project: https://www.figma.com/design/3Gcnga9Wa7vZJWdPaKm7wE/CURRICULUM?node-id=0-1&t=UA7eqnuTsmojvaeG-1
+
 PROJECT ANALYSIS
 
 User profile:
@@ -20,7 +23,5 @@ Visual design:
 The website uses a color palette tones of beige, purple and white to keep the readability. The visual design of the website focuses on keeping everything clean, organized and easy to read. The goal was to create calm and a balanced atmosphere, avoiding too many colors that could distract the user. Ii is used similar tones to keep the consistency and prevent the reader from feeling overwhelmed and see a chaotic website. 
 Each section is surrounded by a beige box that separates it from the others. This makes it easy for the users to understant where one sections begins and ends, this improves readability.
 The most important titles are bigger than the rest of the text and share the same colors between them, so the user can recognize them. 
-Overall, the website has been designed to be simple and professional, allowing the user to concentrate on the information and give a feeling of professionalism and control.
-
-Link to the Figma project: https://www.figma.com/design/3Gcnga9Wa7vZJWdPaKm7wE/CURRICULUM?node-id=0-1&t=UA7eqnuTsmojvaeG-1 
+Overall, the website has been designed to be simple and professional, allowing the user to concentrate on the information and give a feeling of professionalism and control. 
 
